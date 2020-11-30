@@ -27,7 +27,7 @@ SECRET_KEY = 'rn(n=a-(!t*0aqx8rj*6_14%sw$_15tb9u8e^awro6cqm*x0&j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1:8000', 'nabeul.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1:8000', 'nabeul.herokuapp.com']
 
 
 # Application definition
